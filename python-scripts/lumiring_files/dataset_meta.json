@@ -1,0 +1,28 @@
+{
+    "allow_delete": true,
+    "default_index": [
+        {
+            "start": null,
+            "step": null,
+            "stop": null
+        }
+    ],
+    "groups": [],
+    "hidden_tensors": [
+        "_file_id_id",
+        "_status_id"
+    ],
+    "tensor_names": {
+        "_file_id_id": "_file_id_id",
+        "_status_id": "_status_id",
+        "file_id": "file_id",
+        "status": "status"
+    },
+    "tensors": [
+        "file_id",
+        "_file_id_id",
+        "status",
+        "_status_id"
+    ],
+    "version": "3.9.34"
+}
